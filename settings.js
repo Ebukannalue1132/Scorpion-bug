@@ -12,15 +12,15 @@ const fs = require('fs')
 const chalk = require('chalk')
 
 //contact details
-global.ownernomer = "2348108395270"
-global.ownername = "🕳️ Phantom+Hacker 🕳️"
+global.ownernomer = "2349070810971"
+global.ownername = "🕳️ XBUGBOTX🕳️"
 global.ytname = "YT: Phantom-hacks01"
 global.socialm = "GitHub: Passkey-md"
 global.location = "India, Mizoram, Aizawl"
 
-global.ownernumber = '2348108395270'  //creator number
-global.ownername = '🕳️ Phantom+Hacker 🕳️' //owner name
-global.botname = 'Phantom-bug-bot' //name of the bot
+global.ownernumber = '2349070810971'  //creator number
+global.ownername = '🕳️ XBUGBOTX 🕳️' //owner name
+global.botname = 'XBUGBOTX' //name of the bot
 
 //sticker details
 global.packname = 'Sticker By'
